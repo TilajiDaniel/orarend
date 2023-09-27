@@ -1,20 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-    table{
-    width: 100%;
-  }
-  table, th{
-    border: 1px solid ;
-    border-collapse: collapse;
-    padding: 10px;
-}
- table, td{
-    border:1px solid ;
-    border-collapse: collapse;
- }
-</style>
+
 </head>
 <body>
 
