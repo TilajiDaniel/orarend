@@ -1,13 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+<style>
+    table{
+    width: 100%;
+  }
+  table, th{
+    border: 1px solid ;
+    border-collapse: collapse;
+    padding: 10px;
+}
+ table, td{
+    border:1px solid ;
+    border-collapse: collapse;
+ }
+</style>
 </head>
 <body>
 
-<h1>Órarend</h1>
+<h1 style="text-align: center;">Órarend</h1>
 
-<table style="text-align:center;">
+<table style="text-align:center;align-items: center;border-collapse: collapse;border: solid 1px ;">
   <tr>
     <th></th>
     <th>Hétfő</th>
